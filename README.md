@@ -20,9 +20,11 @@ The specific file that I’m typing into right now is the **README.md** for this
 ### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
 
 # Week 1: Example Report 1 #
-## Week of 09/05/2024
+## Week of 09/02/2024
 
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
+This is the second week of the Mdes program. This week, I mainly focused on getting familiarized with the resources that we're provided with, so I can utilize them later in the semester to help me with the projects. We toured Jacob's maker space and the fabrication lab at Wurster Hall during our orientation last week, which excited me. I attended the training for the robot arm and laser cutting so far, and I will attend the Form 3 3D printer the following Monday. 
+
+I've used the laser cutter a lot in the past due to my background in architecture, and I believe my experience in Rhino prepared me well for the first project - Computational Design. However, I'm excited to explore more variety in the projects through this project and this class, to create more design beyond architectural models. Although I haven't started prototyping this week, I've been thinking about some ideas that I have for the phone holder. It seems to be a project at a much smaller scale than what I've been working on. I'm excited about this new challenge and see how my peers and I will approach it.
 
 <img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
 
