@@ -29,6 +29,8 @@ I failed many times. I didn't know where to start at first. I kept getting a "ba
 <img width="800" alt="grasshopper2" src="assets/grasshopper2.png">  <br>
 After adjusting the number sliders, I finally have a phone stand that works for my phone!
 
+### Speculations
+I think Grasshopper is a great tool as it allows me to change the parameters of geometry efficiently. In the provided file, I was also impressed by its ability to assess the center of gravity and other measurements, which I can see being applied in a variety of ways. Next week, I will try to explore more creative geometry forms within Grasshopper.
 
 ---
 
