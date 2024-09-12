@@ -26,3 +26,10 @@ I’ve used the laser cutter a lot in the past due to my background in architect
 # Week 2: Example Report 2 #
 ## Week of 09/02/2024
 ### Reflections
+This week, I explored Grasshopper for the first time. I was quite confused after our first Grasshopper demo in class, so I spent more time understanding the provided file over the weekend. I started by reading the notes and nodes, trying to create a high-level diagram that summarizes each cluster. Below is the first diagram I created in Figjam. I used different colors of sticky notes, and each color belongs to one big category, such as context, phone stand, cell phone, and testing. This approach is initially inspired by the concept maps we've been doing in the Design Framework class.
+<img width="1000" alt="Diagram1" src="assets/diagram1"> 
+After Monday's class, I created another diagram, shown below. This diagram is inspired by inspecting the file from a high-level point of view and thinking what user needs are. I divided the diagram into three main parts: ingredients, process & tools, and goal. I think this diagram went beyond just simply interpreting each battery node in the file.
+<img width="800" alt="Diagram2" src="assets/diagram2.png"> 
+
+Moving on to the second part of the homework, I experimented with other geometric shapes in Grasshopper. I failed many times. I didn't know where to start at first. I kept getting a "bad assembly" warning. 
+However, I was able to figure it out in the end through online tutorials, help from friends, and workshops from the instructor. 
