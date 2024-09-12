@@ -14,9 +14,21 @@ This week, I explored Grasshopper for the first time. I was quite confused after
 After Monday's class, I created another diagram, shown below. This diagram is inspired by inspecting the file from a high-level point of view and thinking what user needs are. I divided the diagram into three main parts: ingredients, process & tools, and goal. I think this diagram went beyond just simply interpreting each battery node in the file.
 <img width="800" alt="Diagram2" src="assets/diagram2.png"> 
 
-Moving on to the second part of the homework, I experimented with other geometric shapes in Grasshopper. I failed many times. I didn't know where to start at first. I kept getting a "bad assembly" warning. 
+Moving on to the second part of the homework, I experimented with other geometric shapes in Grasshopper. 
+I failed many times. I didn't know where to start at first. I kept getting a "bad assembly" warning. 
+<img width="800" alt="phone adjustment" src="assets/phone adjustment.png"> <br>
+*I changed the phone dimensions to my phone, iPhone 13 Pro, then I received "bad assembly"*
 
-However, I was able to figure it out in the end through online tutorials, help from friends, and workshops from the instructor. 
+<img width="600" alt="center box" src="assets/centerbox.png"> <br>
+*I explored other geometry using "center box" component but failed to align its origin with the phone*
+
+**However, I was able to figure it out in the end through online tutorials, help from friends, and workshops from the instructor.**
+<img width="800" alt="grasshopper1" src="assets/grasshopper1.png"> <br>
+*I followed Monday's workshop and created a rectangular form with a cylinder hole*
+
+<img width="800" alt="grasshopper2" src="assets/grasshopper2.png">  <br>
+After adjusting the number sliders, I finally have a phone stand that works for my phone!
+
 
 ---
 
