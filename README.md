@@ -12,16 +12,24 @@ Welcome to Darlene's GitHub repository!
 This week, I mainly worked on three different tasks for this class:
 1. Modeling in Grasshopper
 2. 3D printing
-3. Work on Project 1 video
+3. Project 1 video
 
 **Part 1: Grasshopper** <br>
 I gained more experience using Grasshopper and finished my project 1 design, which I'm really proud of. I started early and finished my design in Grasshopper over the weekend, so I will have enough time to experiment and get familiar with the 3D printers at Jacobs Makerspace. Throughout the process, I realized the design in my mind was actually more difficult to achieve in Grasshopper than I thought, which frustrated me. I searched online a lot to find the right components for me to use, and I also reached out to instructors for help. In the end, I was able to finish my design successfully.
+<br>
+<img width="700" alt="Grasshopper diagram" src="assets/09192.png"> <img width="250" alt="Rhino" src="assets/09193.png"> 
 
 **Part 2: 3D Printing** <br>
-The 3D printing process was smoother than I expected, as my design was successfully printed on my first try. I asked Cody and other peers to figure out the correct settings for the printers, which was extremely helpful. However, it wasn't easy to find an available printer at Jacobs because everyone is printing their projects, so starting early next time is always nice.
+The 3D printing process was smoother than I expected, as my design was successfully printed on my first try. I asked Cody and other peers to figure out the correct settings for the printers, which was extremely helpful. However, it wasn't easy to find an available printer at Jacobs because everyone is printing their projects, so starting early next time is always nice. <be>
+<br>
+<img width="300" alt="3d print" src="assets/3d print 1.jpg"> <br>
 
 **Part 3: Video** <br>
-After printing, sanding, and testing my design, I recorded a prototype demo video. I also spent time preparing the slides and recording my voice. It was challenging to compress everything into under 3 minutes, but I managed to do it through editing. You can find my video here(https://youtu.be/otJT29p8T_o)
+After printing, sanding, and testing my design, I recorded a prototype demo video. I also spent time preparing the slides and recording my voice. It was challenging to compress everything into under 3 minutes, but I managed to do it through editing. You can find my video here(https://youtu.be/otJT29p8T_o) <br>
+<img width="800" alt="diagram1" src="assets/proj 1 diagram1.png"> <img width="1000" alt="diagram2" src="assets/proj 1 diagram2.png"> 
+<img width="500" alt="diagram3" src="assets/proj 1 diagram3.png"> 
+
+### Speculations
 
 ---
 
