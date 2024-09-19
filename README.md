@@ -4,7 +4,7 @@ Welcome to Darlene's GitHub repository!
 # Outline
 [Week 1 (9/2)](README.md#week-1-example-report-1), [Week 2 (9/9)](README.md#week-2-example-report-2), [Week 3 (9/16)](README.md#week-3-example-report-3)
 
-
+---
 
 # Week 3: Example Report 3 #
 ## Week of 09/16/2024
@@ -13,8 +13,6 @@ This week, I mainly worked on three different tasks for this class:
 1. Modeling in Grasshopper
 2. 3D printing
 3. Project 1 video
-
----
 
 **Part 1: Grasshopper** <br>
 I gained more experience using Grasshopper and finished my project 1 design, which I'm really proud of. I started early and finished my design in Grasshopper over the weekend, so I will have enough time to experiment and get familiar with the 3D printers at Jacobs Makerspace. Throughout the process, I realized the design in my mind was actually more difficult to achieve in Grasshopper than I thought, which frustrated me. I searched online a lot to find the right components for me to use, and I also reached out to instructors for help. In the end, I was able to finish my design successfully. The use of Grasshopper allowed me to quickly iterate on the design, testing different configurations for the phone and pen holder to ensure that it fits and meets ergonomic and functional needs.
