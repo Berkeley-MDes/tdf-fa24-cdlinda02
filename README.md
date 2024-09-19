@@ -1,8 +1,27 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
+# Hello!
+Welcome to Darlene's GitHub repository! 
 
 # Outline
-[Week 1 (9/2)](README.md#week-1-example-report-1), [Week 2 (9/9)](README.md#week-2-example-report-2)
+[Week 1 (9/2)](README.md#week-1-example-report-1), [Week 2 (9/9)](README.md#week-2-example-report-2), [Week 3 (9/16)](README.md#week-3-example-report-3)
+
+
+
+# Week 3: Example Report 3 #
+## Week of 09/16/2024
+### Reflections
+This week, I mainly worked on three different tasks for this class:
+1. Modeling in Grasshopper
+2. 3D printing
+3. Work on Project 1 video
+
+**Part 1: Grasshopper** <br>
+I gained more experience using Grasshopper and finished my project 1 design, which I'm really proud of. I started early and finished my design in Grasshopper over the weekend, so I will have enough time to experiment and get familiar with the 3D printers at Jacobs Makerspace. Throughout the process, I realized the design in my mind was actually more difficult to achieve in Grasshopper than I thought, which frustrated me. I searched online a lot to find the right components for me to use, and I also reached out to instructors for help. In the end, I was able to finish my design successfully.
+
+**Part 2: 3D Printing** <br>
+The 3D printing process was smoother than I expected, as my design was successfully printed on my first try. I asked Cody and other peers to figure out the correct settings for the printers, which was extremely helpful. However, it wasn't easy to find an available printer at Jacobs because everyone is printing their projects, so starting early next time is always nice.
+
+**Part 3: Video** <br>
+After printing, sanding, and testing my design, I recorded a prototype demo video. I also spent time preparing the slides and recording my voice. It was challenging to compress everything into under 3 minutes, but I managed to do it through editing. You can find my video here(https://youtu.be/otJT29p8T_o)
 
 ---
 
