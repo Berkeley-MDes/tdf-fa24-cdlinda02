@@ -19,7 +19,7 @@ Moving on to the second project, I developed a network map of my interaction wit
 
 Document management involves sharing designs and documents depending on the type of work. The collaboration includes video and audio as means of communication. Lastly, time management encompasses lists and calendars as forms of information. At the same time, the user (me) responds to the data by learning from retrieved knowledge, producing efficient group work, and improving time estimation.
 <br>
-<img width="1200" alt="ecosystem diagram" src="assets/ecosystem diagram.png"> 
+<img width="1200" alt="ecosystem diagram" src="assets/ecosystem diagram111.png"> 
 ### Speculations
 I’m both excited and anxious about the upcoming project. I don’t have any experience with photons or microcontrollers, but they’ve always been areas I’ve wanted to learn and explore. I’m looking forward to the class on Thursday and plan to spend some time over the weekend starting to pick things up.
 
