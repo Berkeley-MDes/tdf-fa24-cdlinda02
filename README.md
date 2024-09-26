@@ -1,5 +1,5 @@
-# Hello🌸
-Welcome to Darlene's GitHub repository! 
+# Hello!
+Welcome to Darlene's GitHub repository🌸
 
 # Outline
 [Week 1 (9/2)](README.md#week-1-weekly-report-1), [Week 2 (9/9)](README.md#week-2-weekly-report-2), [Week 3 (9/16)](README.md#week-3-weekly-report-3), [Week 4 (9/23)](README.md#week-4-weekly-report-4)
@@ -11,6 +11,9 @@ Welcome to Darlene's GitHub repository!
 ### Reflections
 
 This week, I wrapped up my first project by writing the project report. I enjoyed the peer review session and reviewing the feedback to evaluate the next steps. The feedback gave me a fresh perspective to assess my design and focus on areas I hadn’t noticed before.
+<p align="center">
+  <img width="600" alt="prototype" src="assets/1">  <br> 
+  Photos of my first project prototype
 
 Moving on to the second project, I developed a network map of my interaction with Work & Productivity Ecosystems. Based on my experience, I divided the work ecosystem into three main categories, each branching out into subcategories or specific applications: 
 1. Document Management
