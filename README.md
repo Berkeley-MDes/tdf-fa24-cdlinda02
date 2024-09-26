@@ -2,11 +2,30 @@
 Welcome to Darlene's GitHub repository! 
 
 # Outline
-[Week 1 (9/2)](README.md#week-1-example-report-1), [Week 2 (9/9)](README.md#week-2-example-report-2), [Week 3 (9/16)](README.md#week-3-example-report-3)
+[Week 1 (9/2)](README.md#week-1-weekly-report-1), [Week 2 (9/9)](README.md#week-2-weekly-report-2), [Week 3 (9/16)](README.md#week-3-weekly-report-3), [Week 4 (9/23)](README.md#week-4-weekly-report-4)
 
 ---
 
-# Week 3: Example Report 3 #
+# Week 4: Weekly Report 4 #
+## Week of 09/23/2024
+### Reflections
+
+This week, I wrapped up my first project by writing the project report. I enjoyed the peer review session and reviewing the feedback to evaluate the next steps. The feedback gave me a fresh perspective to assess my design and focus on areas I hadn’t noticed before.
+
+Moving on to the second project, I developed a network map of my interaction with Work & Productivity Ecosystems. Based on my experience, I divided the work ecosystem into three main categories, each branching out into subcategories or specific applications: 
+1. Document Management
+2. Collaboration
+3. Time Management <be>
+
+Document management involves sharing designs and documents depending on the type of work. The collaboration includes video and audio as means of communication. Lastly, time management encompasses lists and calendars as forms of information. At the same time, the user (me) responds to the data by learning from retrieved knowledge, producing efficient group work, and improving time estimation.
+<br>
+<img width="1200" alt="ecosystem diagram" src="assets/ecosystem diagram.png"> 
+### Speculations
+I’m both excited and anxious about the upcoming project. I don’t have any experience with photons or microcontrollers, but they’ve always been areas I’ve wanted to learn and explore. I’m looking forward to the class on Thursday and plan to spend some time over the weekend starting to pick things up.
+
+---
+
+# Week 3: Weekly Report 3 #
 ## Week of 09/16/2024
 ### Reflections
 This week, I mainly worked on three different tasks for this class:
@@ -35,7 +54,7 @@ I explored computational design for the first time through this project, and I�
 
 ---
 
-# Week 2: Example Report 2 #
+# Week 2: Weekly Report 2 #
 ## Week of 09/09/2024
 ### Reflections
 This week, I explored Grasshopper for the first time. I was quite confused after our first Grasshopper demo in class, so I spent more time understanding the provided file over the weekend. I started by reading the notes and nodes, trying to create a high-level diagram that summarizes each cluster. Below is the first diagram I created in Figjam. I used different colors of sticky notes, and each color belongs to one big category, such as context, phone stand, cell phone, and testing. This approach is initially inspired by the concept maps we've been doing in the Design Framework class.
@@ -63,7 +82,7 @@ I think Grasshopper is a great tool as it allows me to change the parameters of 
 
 ---
 
-# Week 1: Example Report 1 #
+# Week 1: Weekly Report 1 #
 ## Week of 09/02/2024
 ### Reflections
 This is the second week of the MDes program. This week, I mainly focused on familiarizing myself with the resources we're provided with so I can utilize them later in the semester for projects. We toured Jacobs Maker Space and the fabrication lab at Wurster Hall during our orientation last week, which really excited me. So far, I’ve attended training for the robot arm and laser cutting, and I will attend the Form 3 3D printer training next Monday. Learning about the robot arm was particularly fun. I’m not sure if I’ll have the chance to use this technique with other projects this semester, but the idea of having a robot draw for me—possibly on a 3D surface—fascinates me.
