@@ -9,7 +9,10 @@ Welcome to Darlene's GitHub repository🌸
 # Week 4: Weekly Report 4 #
 ## Week of 09/30/2024
 ### Reflections
-For Monday's assignment, I successfully compiled and flashed three files. I had trouble with flashing the file and kept getting "Device not found". I figured out it might because I'm working on this from home, and I haven't connect my Photon 2 to my home Wifi yet. After a few more tires, I was able to flash it successfully.
+For Monday's assignment, I successfully compiled and flashed three files. I had trouble with flashing the file and kept getting "Device not found". I figured out it might be because I'm working on this from home, and I haven't connect my Photon 2 to my home Wifi yet. After a few more tires, I was able to flash it successfully. <br>
+<img width="300" alt="file1" src="assets/Screenshot 2024-09-28 205751.png"> 
+<img width="600" alt="file1" src="assets/Screenshot 2024-09-28 204649.png"> 
+
 
 ---
 
