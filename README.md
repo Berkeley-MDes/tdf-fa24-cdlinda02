@@ -4,6 +4,13 @@ Welcome to Darlene's GitHub repository🌸
 # Outline
 [Week 1 (9/2)](README.md#week-1-weekly-report-1), [Week 2 (9/9)](README.md#week-2-weekly-report-2), [Week 3 (9/16)](README.md#week-3-weekly-report-3), [Week 4 (9/23)](README.md#week-4-weekly-report-4)
 
+
+---
+# Week 4: Weekly Report 4 #
+## Week of 09/30/2024
+### Reflections
+For Monday's assignment, I successfully compiled and flashed three files. I had trouble with flashing the file and kept getting "Device not found". I figured out it might because I'm working on this from home, and I haven't connect my Photon 2 to my home Wifi yet. After a few more tires, I was able to flash it successfully.
+
 ---
 
 # Week 4: Weekly Report 4 #
