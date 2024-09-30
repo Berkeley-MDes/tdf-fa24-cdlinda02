@@ -9,12 +9,20 @@ Welcome to Darlene's GitHub repository🌸
 # Week 4: Weekly Report 4 #
 ## Week of 09/30/2024
 ### Reflections
-For Monday's assignment, I successfully compiled and flashed three files. I had trouble with flashing the file and kept getting "Device not found". I figured out it might be because I'm working on this from home, and I haven't connect my Photon 2 to my home Wifi yet. After a few more tires, I was able to flash the first file(spell hello world) successfully. <br>
+For Monday's assignment, I successfully compiled and flashed three files. I had trouble flashing the file and kept getting "Device not found". I figured out it might be because I'm working on this from home, and I haven't connected my Photon 2 to my home Wifi yet. After a few more tries, I was able to flash the first file(spell hello world) successfully. <br>
 <img width="300" alt="file1" src="assets/Screenshot 2024-09-28 205751.png"> 
 <img width="600" alt="file1" src="assets/Screenshot 2024-09-28 204649.png"> <br>
 Next, I followed the instructions to assemble the electronic components such as the button and LED needed for the next two code files(make it blink & make it blink outside). I was able to change the period by pressing the button. <br>
 <img width="200" alt="file1" src="assets/Image_20240929132504.jpg"> 
-<img width="400" alt="file1" src="assets/Screenshot 2024-09-28 213530.png"> 
+<img width="400" alt="file1" src="assets/Screenshot 2024-09-28 213530.png">  <br>
+I also tried making changes to the code. For example, I changed the message to "Hello TDF!" and adjusted the initial periodicity to 5000. By changing led_out to D7 in the "04 make it blink" file, I made the LED light blink on my circuit too.
+
+### Speculations
+It's fun exploring codes and hardwares. As I'm engaging with various elements, I see how each component works together closely to form a cohesive system that can:
+1. collect data
+2. process it in real-time
+3. immediate output/feedback <br>
+I could envision a design that involves a system like this to make it more interactive with users and responsive to environmental outputs. I think its ability to have remote access to the cloud and realtime feedback and control are its advantages over other systems. In my daily life, I think an ecosystem that supports cross-disciplinary collaboration is missing. For example, in my classes and work, I often work with design, codes, and prototyping on different platforms or software, and it's inconvenient to switch between different platforms. Existing collaboration platforms tend to be either too design-centric or developer-centric. A middle ground where the work of both is integrated into a cohesive whole isn’t common yet.
 
 
 ---
