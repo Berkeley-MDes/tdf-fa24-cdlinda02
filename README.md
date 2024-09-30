@@ -16,6 +16,8 @@ Next, I followed the instructions to assemble the electronic components such as 
 <img width="200" alt="file1" src="assets/Image_20240929132504.jpg"> 
 <img width="400" alt="file1" src="assets/Screenshot 2024-09-28 213530.png">  <br>
 I also tried making changes to the code. For example, I changed the message to "Hello TDF!" and adjusted the initial periodicity to 5000. By changing led_out to D7 in the "04 make it blink" file, I made the LED light blink on my circuit too.
+<img width="200" alt="video" src="assets/WeChat_20240929183719.mp4"> 
+<img width="400" alt="file1" src="assets/Screenshot 2024-09-29 181703.png">  <br>
 
 ### Speculations
 It's fun exploring codes and hardwares. As I'm engaging with various elements, I see how each component works together closely to form a cohesive system that can:
