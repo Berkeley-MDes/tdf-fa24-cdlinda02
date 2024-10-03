@@ -2,7 +2,7 @@
 Welcome to Darlene's GitHub repository🌸
 
 # Outline
-[Week 1 (9/2)](README.md#week-1-weekly-report-1), [Week 2 (9/9)](README.md#week-2-weekly-report-2), [Week 3 (9/16)](README.md#week-3-weekly-report-3), [Week 4 (9/23)](README.md#week-4-weekly-report-4)
+[Week 1 (9/2)](README.md#week-1-weekly-report-1), [Week 2 (9/9)](README.md#week-2-weekly-report-2), [Week 3 (9/16)](README.md#week-3-weekly-report-3), [Week 4 (9/23)](README.md#week-4-weekly-report-4), 
 [Week 5 (9/30)](README.md#week-5-weekly-report-5)
 
 
@@ -12,7 +12,7 @@ Welcome to Darlene's GitHub repository🌸
 ### Reflections
 For Monday's assignment, I successfully compiled and flashed three files. I had trouble flashing the file and kept getting "Device not found". I figured out it might be because I'm working on this from home, and I haven't connected my Photon 2 to my home Wifi yet. After a few more tries, I was able to flash the first file(spell hello world) successfully. <br>
 <img width="300" alt="file1" src="assets/Screenshot 2024-09-28 205751.png"> 
-<img width="600" alt="file1" src="assets/Screenshot 2024-09-28 204649.png"> <br>
+<img width="500" alt="file1" src="assets/Screenshot 2024-09-28 204649.png"> <br>
 Next, I followed the instructions to assemble the electronic components such as the button and LED needed for the next two code files(make it blink & make it blink outside). I was able to change the period by pressing the button. <br>
 <img width="200" alt="file1" src="assets/Image_20240929132504.jpg"> 
 <img width="400" alt="file1" src="assets/Screenshot 2024-09-28 213530.png">  <br>
@@ -25,13 +25,17 @@ During our work session on Monday, I gained a clearer understanding of how the c
   <img width="400" alt="file1" src="assets/Screenshot 2024-10-02 231848.png"> 
 
 I moved on to the three tutorials. I picked "Button --> LED pulse rate". I noticed a lot of similar "functions" in the code like "buttonPressed", except now the input is not void anymore. 
+<p align="center">
+  <img width="200" alt="file1" src="assets/demovideo.gif">  <br>
 
 Next, I tried to assemble "FSR -> LED color" which I struggled with connecting FSR. I didn't have the tools to solder them so I taped them together as shown in the photo, but it's very unstable. With the help of others, I found stemma cables and finished the connections. 
 <p align="center">
   <img width="200" alt="file1" src="assets/WeChat_20241003140809.gif"> <br>
+
 Next, I tried "Potentiometer -> OLED", but I didn't know how to connect the OLED using stemma cables because they won't fit.
 <p align="center">
   <img width="400" alt="file1" src="assets/Image_20241003140814.jpg"> <br>
+
 Lastly, I finished "Button Send on change".
 <p align="center">
   <img width="200" alt="file1" src="assets/Image_20241003140800.jpg"> 
@@ -41,7 +45,10 @@ It's fun exploring codes and hardwares. As I'm engaging with various elements, I
 1. collect data
 2. process it in real-time
 3. immediate output/feedback <br>
-I could envision a design that involves a system like this to make it more interactive with users and responsive to environmental outputs. I think its ability to have remote access to the cloud and realtime feedback and control are its advantages over other systems. In my daily life, I think an ecosystem that supports cross-disciplinary collaboration is missing. For example, in my classes and work, I often work with design, codes, and prototyping on different platforms or software, and it's inconvenient to switch between different platforms. Existing collaboration platforms tend to be either too design-centric or developer-centric. A middle ground where the work of both is integrated into a cohesive whole isn’t common yet.
+<p align="center">
+  <img width="400" alt="file1" src="assets/output.png"> <br>
+
+I could envision a design that involves a system like this to make it more interactive with users and responsive to environmental outputs. I think its ability to have remote access to the cloud and real-time feedback and control are its advantages over other systems. In my daily life, I think an ecosystem that supports cross-disciplinary collaboration is missing. For example, in my classes and work, I often work with design, codes, and prototyping on different platforms or software, and it's inconvenient to switch between different platforms. Existing collaboration platforms tend to be either too design-centric or developer-centric. A middle ground where the work of both is integrated into a cohesive whole isn’t common yet.
 
 
 ---
