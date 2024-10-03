@@ -20,6 +20,12 @@ I also tried making changes to the code. For example, I changed the message to "
 <img width="200" alt="video" src="assets/WeChat_20240929183719.mp4"> 
 <img width="400" alt="file1" src="assets/Screenshot 2024-09-29 181703.png">  <br>
 
+During our work session on Monday, I gained a clearer understanding of how the circuits work and began to understand the code more. Specifically, one of the 'ah ha!' moments was seeing the structure of the breadboard (I also just learned its name) with the bottom removed. I started to understand how the current flows through lead, resistors, capacitors, and other components. I was also able to match the pin_t code to the actual pins on the Photon2 (which, to be honest, I had previously ignored). After class, I finished the #6 file and observed the real-time updates of the Photon on the cloud.
+
+I moved on to the three tutorials. I picked "Button --> LED pulse rate". I noticed a lot of similar "functions" in the code like "buttonPressed", except now the input is not void anymore. Next, I tried to assemble "FSR -> LED color" which I struggled with connecting FSR. I didn't have the tools to solder them so I taped them together as shown in the photo, but it's very unstable. With the help of others, I found stemma cables and finished the connections. Next, I tried "Potentiometer -> OLED", but I didn't know how to connect the OLED using stemma cables because they won't fit.
+
+
+
 ### Speculations
 It's fun exploring codes and hardwares. As I'm engaging with various elements, I see how each component works together closely to form a cohesive system that can:
 1. collect data
