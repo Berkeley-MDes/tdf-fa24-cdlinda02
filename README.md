@@ -3,8 +3,14 @@ Welcome to Darlene's GitHub repository🌸
 
 # Outline
 [Week 1 (9/2)](README.md#week-1-weekly-report-1), [Week 2 (9/9)](README.md#week-2-weekly-report-2), [Week 3 (9/16)](README.md#week-3-weekly-report-3), [Week 4 (9/23)](README.md#week-4-weekly-report-4), 
-[Week 5 (9/30)](README.md#week-5-weekly-report-5)
+[Week 5 (9/30)](README.md#week-5-weekly-report-5), [Week 6 (10/7)](README.md#week-6-weekly-report-6)
+---
 
+# Week 6: Weekly Report 6 #
+## Week of 10/07/2024
+### Reflections
+This week, I soldered the SparkFun Thing Plus shield. This is my first time ever soldering. The video tutorial was super helpful and peers at Makerspace also helped me a lot.
+Then I connected my Stemma sensors to it via the 4-pin stemma connectors. 
 
 ---
 # Week 5: Weekly Report 5 #
