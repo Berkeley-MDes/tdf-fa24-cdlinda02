@@ -9,8 +9,10 @@ Welcome to Darlene's GitHub repository🌸
 # Week 6: Weekly Report 6 #
 ## Week of 10/07/2024
 ### Reflections
-This week, I soldered the SparkFun Thing Plus shield. This is my first time ever soldering. The video tutorial was super helpful and peers at Makerspace also helped me a lot.
-Then I connected my Stemma sensors to it via the 4-pin stemma connectors. 
+This week, I soldered the SparkFun Thing Plus shield. This is my first time ever soldering. The video tutorial was super helpful and peers at Makerspace also helped me a lot. <br>
+<img width="300" alt="file1" src="assets/Image_1.jpg"> <br>
+Then I connected my Stemma sensors to it via the 4-pin stemma connectors. <br>
+<img width="300" alt="file1" src="assets/Image_2.jpg"> 
 
 ---
 # Week 5: Weekly Report 5 #
