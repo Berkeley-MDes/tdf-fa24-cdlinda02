@@ -12,7 +12,11 @@ Welcome to Darlene's GitHub repository🌸
 This week, I soldered the SparkFun Thing Plus shield. This is my first time ever soldering. The video tutorial was super helpful and peers at Makerspace also helped me a lot. <br>
 <img width="300" alt="file1" src="assets/Image_1.jpg"> <br>
 Then I connected my Stemma sensors to it via the 4-pin stemma connectors. <br>
-<img width="300" alt="file1" src="assets/Image_2.jpg"> 
+<img width="300" alt="file1" src="assets/Image_2.jpg"> <br>
+I compiled and flashed the code for the MPU6050 sensor, but I didn't fully understand what the numbers meant. <br>
+<img width="300" alt="file1" src="assets/Screenshot 2024-10-07 140849.png"> <br>
+I had trouble with the APDS9960. After I tried downloading the library using a different way, I was able to flash it successfully. However, the sensor couldn't return any values.<br>
+<img width="600" alt="file1" src="assets/Screenshot 2024-10-07 172235.png"> <br>
 
 ---
 # Week 5: Weekly Report 5 #
