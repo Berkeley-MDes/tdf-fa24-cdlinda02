@@ -15,8 +15,10 @@ Then I connected my Stemma sensors to it via the 4-pin stemma connectors. <br>
 <img width="300" alt="file1" src="assets/Image_2.jpg"> <br>
 I compiled and flashed the code for the MPU6050 sensor, but I didn't fully understand what the numbers meant. <br>
 <img width="300" alt="file1" src="assets/Screenshot 2024-10-07 140849.png"> <br>
-I had trouble with the APDS9960. After I tried downloading the library using a different way, I was able to flash it successfully. However, the sensor couldn't return any values.<br>
+I had trouble with the APDS9960. After I tried downloading the library using a different way, I was able to flash it successfully. However, the sensor couldn't return any values. I went to Office Hour and the problem was still not fully solved. However, I learned different ways to download libraries. <br>
 <img width="600" alt="file1" src="assets/Screenshot 2024-10-07 172235.png"> <br>
+In Monday's class, I formed a team for the group project, and we brainstormed some ideas for our project topic.
+
 
 ---
 # Week 5: Weekly Report 5 #
