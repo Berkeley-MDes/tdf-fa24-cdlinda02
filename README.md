@@ -20,6 +20,8 @@ I had trouble with the APDS9960. After I tried downloading the library using a d
 In Monday's class, I formed a team for the group project, and we brainstormed some ideas for our project topic. <br>
 <img width="400" alt="file1" src="assets/Image_3.jpg">
 
+### Speculations
+Moving forward, I’m excited to see how our project will turn out in the next week or two. Our team discussed many possibilities, but we still want to narrow down the scope and focus on what’s doable and effective in the short time we have. Our team also has a diverse background: I’m proficient in physical modeling, while my teammates have experience with coding and microcontrollers. I believe our project will turn out great!
 
 ---
 # Week 5: Weekly Report 5 #
