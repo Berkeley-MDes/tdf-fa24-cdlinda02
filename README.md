@@ -18,7 +18,11 @@ I compiled and flashed the code for the MPU6050 sensor, but I didn't fully under
 I had trouble with the APDS9960. After I tried downloading the library using a different way, I was able to flash it successfully. However, the sensor couldn't return any values. I went to Office Hour and the problem was still not fully solved. However, I learned different ways to download libraries. <br>
 <img width="600" alt="file1" src="assets/Screenshot 2024-10-07 172235.png"> <br>
 In Monday's class, I formed a team for the group project, and we brainstormed some ideas for our project topic. <br>
-<img width="400" alt="file1" src="assets/Image_3.jpg">
+<img width="400" alt="file1" src="assets/Image_3.jpg"> <br>
+On Wednesday, our team created  a Draft System Architecture Diagram and a Draft Process or Sequence Diagram for our project idea. <br>
+<img width="800" alt="file1" src="assets/tdf draft system.png"><img width="800" alt="file1" src="assets/tdf process diagram.png">
+
+
 
 ### Speculations
 Moving forward, I’m excited to see how our project will turn out in the next week or two. Our team discussed many possibilities, but we still want to narrow down the scope and focus on what’s doable and effective in the short time we have. Our team also has a diverse background: I’m proficient in physical modeling, while my teammates have experience with coding and microcontrollers. I believe our project will turn out great!
