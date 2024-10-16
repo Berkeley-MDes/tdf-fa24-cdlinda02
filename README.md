@@ -6,6 +6,15 @@ Welcome to Darlene's GitHub repository🌸
 [Week 5 (9/30)](README.md#week-5-weekly-report-5), [Week 6 (10/7)](README.md#week-6-weekly-report-6)
 ---
 
+# Week 7: Weekly Report 7 #
+## Week of 10/14/2024
+### Reflections
+This week, we started by refining our project proposal. Specifically, we added two new inputs for our ecosystem and re-created the diagrams.
+During Monday's class, we tried connecting all three inputs: pulse sensor, loudness sensor, and motion detector with Photon 2 on the breadboard. We successfully compiled and flashed the code. However, the pulse sensor outputs don't seem accurate all the time, and we will look into it later.
+On Tuesday, we worked on publishing to and subscribing data from Particle Cloud using a second Photon. However, we were stuck on connecting to our first output, the OLED display on our photon. We scheduled an OH with the instructor and planned to figure it out before next class.
+
+---
+
 # Week 6: Weekly Report 6 #
 ## Week of 10/07/2024
 ### Reflections
