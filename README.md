@@ -3,15 +3,23 @@ Welcome to Darlene's GitHub repository🌸
 
 # Outline
 [Week 1 (9/2)](README.md#week-1-weekly-report-1), [Week 2 (9/9)](README.md#week-2-weekly-report-2), [Week 3 (9/16)](README.md#week-3-weekly-report-3), [Week 4 (9/23)](README.md#week-4-weekly-report-4), 
-[Week 5 (9/30)](README.md#week-5-weekly-report-5), [Week 6 (10/7)](README.md#week-6-weekly-report-6)
+[Week 5 (9/30)](README.md#week-5-weekly-report-5), [Week 6 (10/7)](README.md#week-6-weekly-report-6), [Week 7 (10/14)](README.md#week-7-weekly-report-7)
+
 ---
 
 # Week 7: Weekly Report 7 #
 ## Week of 10/14/2024
 ### Reflections
-This week, we started by refining our project proposal. Specifically, we added two new inputs for our ecosystem and re-created the diagrams.
-During Monday's class, we tried connecting all three inputs: pulse sensor, loudness sensor, and motion detector with Photon 2 on the breadboard. We successfully compiled and flashed the code. However, the pulse sensor outputs don't seem accurate all the time, and we will look into it later.
-On Tuesday, we worked on publishing to and subscribing data from Particle Cloud using a second Photon. However, we were stuck on connecting to our first output, the OLED display on our photon. We scheduled an OH with the instructor and planned to figure it out before next class.
+This week, we started by refining our project proposal. Specifically, we added two new inputs for our ecosystem and re-created the diagrams. <br>
+<img width="800" alt="file1" src="assets/system archv2.png"> <br>
+<img width="800" alt="file1" src="assets/process v2.png"> <br>
+During Monday's class, we tried connecting all three inputs: pulse sensor, loudness sensor, and motion detector with Photon 2 on the breadboard. We successfully compiled and flashed the code. However, the pulse sensor outputs don't seem accurate the whole time, and we will look into it later. <br>
+<img width="300" alt="file1" src="assets/videosuc.gif"> <br>
+On Tuesday, we worked on publishing and subscribing data from Particle Cloud using a second Photon. <br>
+<img width="800" alt="file1" src="assets/image_5.jpg"> <br>
+
+### Speculations
+Although we made a lot of progress, we were stuck on connecting to our first output—the OLED display on our Photon. We scheduled office hours with the instructor and planned to figure it out before the next class. Overall, I'm satisfied with what our team achieved within three days. Each member of our team has different strengths, and we were able to troubleshoot through our teamwork.
 
 ---
 
@@ -31,12 +39,11 @@ In Monday's class, I formed a team for the group project, and we brainstormed so
 On Wednesday, our team created  a Draft System Architecture Diagram and a Draft Process or Sequence Diagram for our project idea. <br>
 <img width="800" alt="file1" src="assets/tdf draft system.png"><img width="800" alt="file1" src="assets/tdf process diagram.png">
 
-
-
 ### Speculations
 Moving forward, I’m excited to see how our project will turn out in the next week or two. Our team discussed many possibilities, but we still want to narrow down the scope and focus on what’s doable and effective in the short time we have. Our team also has a diverse background: I’m proficient in physical modeling, while my teammates have experience with coding and microcontrollers. I believe our project will turn out great!
 
 ---
+
 # Week 5: Weekly Report 5 #
 ## Week of 09/30/2024
 ### Reflections
