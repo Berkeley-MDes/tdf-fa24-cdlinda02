@@ -11,7 +11,7 @@ Welcome to Darlene's GitHub repository🌸
 ## Week of 10/21/2024
 ### Reflections
 This is the final week for Project 2, and our team has made a lot of progress. Specifically, we spent most of the time getting the two outputs—OLED display and vibration motor—to work properly. I mainly focused on working with the haptic motor controller board and the vibrating mini motor. I first soldered the two components together, then followed the tutorial, and worked with the instructors during class to flash the correct codes. <br>
-<img width="800" alt="file1" src="assets/solder.jpg"> <br>
+<img width="600" alt="file1" src="assets/solder.jpg"> <br>
 <img width="600" alt="file1" src="assets/motorgif.gif"> <br>
 We also had group work sessions to finalize the physical prototyping and video content. We tried various iterations of the case, ensuring that all hardware components fit inside. We also revised our diagram since we calculated the BPM by ourselves instead of using a web health API.<br>
 <img width="600" alt="file1" src="assets/image_4.jpg"> <br>
