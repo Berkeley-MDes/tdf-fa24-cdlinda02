@@ -7,6 +7,18 @@ Welcome to Darlene's GitHub repository🌸
 
 ---
 
+# Week 8: Weekly Report 8 #
+## Week of 10/21/2024
+### Reflections
+This is the final week for Project 2, and our team has made a lot of progress. Specifically, we spent most of the time getting the two outputs—OLED display and vibration motor—to work properly. I mainly focused on working with the haptic motor controller board and the vibrating mini motor. I first soldered the two components together, then followed the tutorial, and worked with the instructors during class to flash the correct codes.
+
+We also had group work sessions to finalize the physical prototyping and video content. We tried various iterations of the case, ensuring that all hardware components fit inside.
+
+### Speculations
+Along the way, we faced several challenges, such as reaching the maximum cloud storage, translating analog signals to BPM, being unable to connect to IoT Wi-Fi, and more. We supported each other throughout the process and asked peers in our cohort for help. I'm excited to receive feedback on our project and to wrap up the project report this weekend.
+
+---
+
 # Week 7: Weekly Report 7 #
 ## Week of 10/14/2024
 ### Reflections
