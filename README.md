@@ -15,7 +15,7 @@ This is the final week for Project 2, and our team has made a lot of progress. S
 <img width="600" alt="file1" src="assets/motorgif.gif"> <br>
 We also had group work sessions to finalize the physical prototyping and video content. We tried various iterations of the case, ensuring that all hardware components fit inside. We also revised our diagram since we calculated the BPM by ourselves instead of using a web health API.<br>
 <img width="600" alt="file1" src="assets/image_4.jpg"> <br>
-<img width="600" alt="file1" src="assets/tdgv3 2.png"> <br>
+<img width="600" alt="file1" src="assets/tdfv3 2.png"> <br>
 
 
 ### Speculations
