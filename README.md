@@ -3,16 +3,19 @@ Welcome to Darlene's GitHub repository🌸
 
 # Outline
 [Week 1 (9/2)](README.md#week-1-weekly-report-1), [Week 2 (9/9)](README.md#week-2-weekly-report-2), [Week 3 (9/16)](README.md#week-3-weekly-report-3), [Week 4 (9/23)](README.md#week-4-weekly-report-4), 
-[Week 5 (9/30)](README.md#week-5-weekly-report-5), [Week 6 (10/7)](README.md#week-6-weekly-report-6), [Week 7 (10/14)](README.md#week-7-weekly-report-7)
+[Week 5 (9/30)](README.md#week-5-weekly-report-5), [Week 6 (10/7)](README.md#week-6-weekly-report-6), [Week 7 (10/14)](README.md#week-7-weekly-report-7), [Week 8 (10/21)](README.md#week-8-weekly-report-8)
 
 ---
 
 # Week 8: Weekly Report 8 #
 ## Week of 10/21/2024
 ### Reflections
-This is the final week for Project 2, and our team has made a lot of progress. Specifically, we spent most of the time getting the two outputs—OLED display and vibration motor—to work properly. I mainly focused on working with the haptic motor controller board and the vibrating mini motor. I first soldered the two components together, then followed the tutorial, and worked with the instructors during class to flash the correct codes.
+This is the final week for Project 2, and our team has made a lot of progress. Specifically, we spent most of the time getting the two outputs—OLED display and vibration motor—to work properly. I mainly focused on working with the haptic motor controller board and the vibrating mini motor. I first soldered the two components together, then followed the tutorial, and worked with the instructors during class to flash the correct codes. <br>
+<img width="800" alt="file1" src="assets/solder.jpg"> <br>
+<img width="600" alt="file1" src="assets/motorgif.gif"> <br>
+We also had group work sessions to finalize the physical prototyping and video content. We tried various iterations of the case, ensuring that all hardware components fit inside. We also revised our diagram since we calculated the BPM by ourselves instead of using a web health API.<br>
+<img width="600" alt="file1" src="assets/image_4.jpg"> <br>
 
-We also had group work sessions to finalize the physical prototyping and video content. We tried various iterations of the case, ensuring that all hardware components fit inside.
 
 ### Speculations
 Along the way, we faced several challenges, such as reaching the maximum cloud storage, translating analog signals to BPM, being unable to connect to IoT Wi-Fi, and more. We supported each other throughout the process and asked peers in our cohort for help. I'm excited to receive feedback on our project and to wrap up the project report this weekend.
