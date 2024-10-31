@@ -10,12 +10,13 @@ Welcome to Darlene's GitHub repository🌸
 # Week 9: Weekly Report 9 #
 ## Week of 10/28/2024
 ### Reflections
-This week, we wrapped up the last project and started Project 3: Retrieval Augmented Generation LLM. In the first class, we met Pete and were introduced to Zerowidth, which we will use to train on LLM. I enjoyed exploring training the LLM and designing a "mini-me" bot to answer questions for me. Through the process, I learned a lot of terms like temperature and token. 
-
-By following the four experiments in the tutorial, I also familiarized myself with the tool Zerowidth and learned about editing agent flows, adding knowledge base, and so on. 
+This week, we wrapped up the last project and started Project 3: Retrieval Augmented Generation LLM. In the first class, we met Pete and were introduced to Zerowidth, which we will use to train on LLM. I enjoyed exploring training the LLM and designing a "mini-me" bot to answer questions for me. Through the process, I learned a lot of terms like temperature and token. <br>
+<img width="600" alt="file1" src="assets/llm diagram.png"> <br>
+By following the four experiments in the tutorial, I also familiarized myself with the tool Zerowidth and learned about editing agent flows, adding a knowledge base, and so on. 
+<img width="600" alt="file1" src="assets/Screenshot 2024-10-31 161045.png"> <br>
 
 ### Speculations
-I personally feel like leveraging tools like Zerowidth has made AI design more friendly to people without much technical background.
+I personally feel like leveraging tools like Zerowidth has made AI design more friendly to people without much technical background. I'm excited to explore more about RAG LLM and build my LLM!
 
 ---
 
