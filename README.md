@@ -3,7 +3,19 @@ Welcome to Darlene's GitHub repository🌸
 
 # Outline
 [Week 1 (9/2)](README.md#week-1-weekly-report-1), [Week 2 (9/9)](README.md#week-2-weekly-report-2), [Week 3 (9/16)](README.md#week-3-weekly-report-3), [Week 4 (9/23)](README.md#week-4-weekly-report-4), 
-[Week 5 (9/30)](README.md#week-5-weekly-report-5), [Week 6 (10/7)](README.md#week-6-weekly-report-6), [Week 7 (10/14)](README.md#week-7-weekly-report-7), [Week 8 (10/21)](README.md#week-8-weekly-report-8)
+[Week 5 (9/30)](README.md#week-5-weekly-report-5), [Week 6 (10/7)](README.md#week-6-weekly-report-6), [Week 7 (10/14)](README.md#week-7-weekly-report-7), [Week 8 (10/21)](README.md#week-8-weekly-report-8), [Week 9 (10/28)](README.md#week-9-weekly-report-9)
+
+---
+
+# Week 9: Weekly Report 9 #
+## Week of 10/28/2024
+### Reflections
+This week, we wrapped up the last project and started Project 3: Retrieval Augmented Generation LLM. In the first class, we met Pete and were introduced to Zerowidth, which we will use to train on LLM. I enjoyed exploring training the LLM and designing a "mini-me" bot to answer questions for me. Through the process, I learned a lot of terms like temperature and token. 
+
+By following the four experiments in the tutorial, I also familiarized myself with the tool Zerowidth and learned about editing agent flows, adding knowledge base, and so on. 
+
+### Speculations
+I personally feel like leveraging tools like Zerowidth has made AI design more friendly to people without much technical background.
 
 ---
 
