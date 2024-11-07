@@ -3,7 +3,7 @@ Welcome to Darlene's GitHub repository🌸
 
 # Outline
 [Week 1 (9/2)](README.md#week-1-weekly-report-1), [Week 2 (9/9)](README.md#week-2-weekly-report-2), [Week 3 (9/16)](README.md#week-3-weekly-report-3), [Week 4 (9/23)](README.md#week-4-weekly-report-4), 
-[Week 5 (9/30)](README.md#week-5-weekly-report-5), [Week 6 (10/7)](README.md#week-6-weekly-report-6), [Week 7 (10/14)](README.md#week-7-weekly-report-7), [Week 8 (10/21)](README.md#week-8-weekly-report-8), [Week 9 (10/28)](README.md#week-9-weekly-report-9)
+[Week 5 (9/30)](README.md#week-5-weekly-report-5), [Week 6 (10/7)](README.md#week-6-weekly-report-6), [Week 7 (10/14)](README.md#week-7-weekly-report-7), [Week 8 (10/21)](README.md#week-8-weekly-report-8), [Week 9 (10/28)](README.md#week-9-weekly-report-9), [Week 10 (11/4)](README.md#week-10-weekly-report-10)
 
 ---
 
@@ -11,9 +11,13 @@ Welcome to Darlene's GitHub repository🌸
 ## Week of 11/4/2024
 ### Reflections
 I finished my final experiment and recorded the project video this week. I added three different knowledge bases to test the accuracy of the responses and observe their impact. I also experimented with various methods to split the source content. For instance, when working with my weekly report, I found that the answers were more accurate when I split the report by week. To streamline this process, I used the "chunk by delimiter" function, setting the delimiter to "Weekly Report," which appears at the beginning of each section. I discovered that adding all three databases caused confusion for the LLM, resulting in unreliable answers. Instead of simply feeding in more data, I focused on finding a balance point that led to the most accurate responses. I then adjusted parameters such as the number of chunks, similarity threshold, temperature, and others to determine which settings yielded the most accurate and ideal responses.
+<img width="800" alt="file1" src="assets/Screenshot 2024-11-06 204939.png"> <br>
+
 
 ### Speculations
 With AI and systems thinking guiding the design, these environments might start to anticipate our needs, learning from us and adapting in real-time. There will be new concerns emerging, such as privacy issues. Training LLM needs a lot of data, will people's privacy be respected? With AI like LLMs playing a bigger role, the way we approach making things could shift from static, one-time projects to dynamic, evolving creations. The process of creation could become a partnership, where engineers bring intuition and ethical foresight, and AI brings data and precision. As AI becomes more advanced, we might see AIs essentially training and monitoring each other, creating an ecosystem where each AI has a role in teaching, refining, or even overseeing other AIs.
+<img width="600" alt="file1" src="assets/Screenshot 2024-11-07 131822.png"> 
+<img width="500" alt="file1" src="assets/Screenshot 2024-11-07 131831.png"> <br>
 
 Through this project, I enjoyed exploring how to train an LLM and designing a "mini-me" bot to answer questions on my behalf. Along the way, I learned key concepts like temperature and tokens used in RAG (Retrieval-Augmented Generation) LLMs. Working through the four experiments in the tutorial, I became comfortable with the Zerowidth tool and gained hands-on experience in editing agent flows, adding a knowledge base, and more. Overall, I feel that tools like Zerowidth make AI design much more accessible for people without a strong technical background, empowering more creators to engage with AI in meaningful ways.
 
