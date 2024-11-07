@@ -7,6 +7,18 @@ Welcome to Darlene's GitHub repository🌸
 
 ---
 
+# Week 10: Weekly Report 10 #
+## Week of 11/4/2024
+### Reflections
+I finished my final experiment and recorded the project video this week. I added three different knowledge bases to test the accuracy of the responses and observe their impact. I also experimented with various methods to split the source content. For instance, when working with my weekly report, I found that the answers were more accurate when I split the report by week. To streamline this process, I used the "chunk by delimiter" function, setting the delimiter to "Weekly Report," which appears at the beginning of each section. I discovered that adding all three databases caused confusion for the LLM, resulting in unreliable answers. Instead of simply feeding in more data, I focused on finding a balance point that led to the most accurate responses. I then adjusted parameters such as the number of chunks, similarity threshold, temperature, and others to determine which settings yielded the most accurate and ideal responses.
+
+### Speculations
+With AI and systems thinking guiding the design, these environments might start to anticipate our needs, learning from us and adapting in real-time. There will be new concerns emerging, such as privacy issues. Training LLM needs a lot of data, will people's privacy be respected? With AI like LLMs playing a bigger role, the way we approach making things could shift from static, one-time projects to dynamic, evolving creations. The process of creation could become a partnership, where engineers bring intuition and ethical foresight, and AI brings data and precision. As AI becomes more advanced, we might see AIs essentially training and monitoring each other, creating an ecosystem where each AI has a role in teaching, refining, or even overseeing other AIs.
+
+Through this project, I enjoyed exploring how to train an LLM and designing a "mini-me" bot to answer questions on my behalf. Along the way, I learned key concepts like temperature and tokens used in RAG (Retrieval-Augmented Generation) LLMs. Working through the four experiments in the tutorial, I became comfortable with the Zerowidth tool and gained hands-on experience in editing agent flows, adding a knowledge base, and more. Overall, I feel that tools like Zerowidth make AI design much more accessible for people without a strong technical background, empowering more creators to engage with AI in meaningful ways.
+
+---
+
 # Week 9: Weekly Report 9 #
 ## Week of 10/28/2024
 ### Reflections
