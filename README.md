@@ -10,7 +10,13 @@ Welcome to Darlene's GitHub repository🌸
 # Week 11: Weekly Report 11 #
 ## Week of 11/11/2024
 ### Reflections
+This week, I received incredibly useful feedback from peers during Thursday's class. I also finalized the diagrams for the project report.
 <img width="500" alt="file1" src="assets/Screenshot 2024-11-07 131831.png"> <br>
+In conclusion, this project demonstrated the importance of iterative experimentation and systems thinking in designing a high-functioning agent using an LLM. By focusing on structuring data through chunking methods, fine-tuning parameters, and optimizing the knowledge base, I was able to build a reliable system that delivers accurate and error-free responses. 
+
+### Speculations
+The feedback highlights several strengths, particularly in the clarity and structure of the presentation, effective storytelling, and the use of visual aids. To build on this, I plan to make a few targeted enhancements. First, I will incorporate subtitles and numbered titles to improve the organization and navigation of the presentation, making it easier for viewers to follow along. Additionally, I will provide more detailed explanations of the processes, especially focusing on areas like node usage and retrieval-augmented generation setups, to ensure viewers can fully understand the workflow and rationale.
+
 
 ---
 
