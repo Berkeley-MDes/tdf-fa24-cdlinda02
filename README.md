@@ -12,7 +12,9 @@ Welcome to Darlene's GitHub repository🌸
 ### Reflections
 After revisiting my proposal, I decided to focus my final project on creating a smart desk organizer. The project aims to enhance organization and efficiency through a combination of computational design, IoT integration, and user-centric customization. Using Grasshopper, the organizer features parametric compartments for personal items like keys and phones. Integrated sensors and a Photon 2 microcontroller detect user motion and item presence, while a calendar API triggers alerts to ensure no essentials are left behind.
 
-Monday’s class was incredibly helpful—it was inspiring to see what other groups are designing and opened up new possibilities for refining my concept.
+Monday’s class was incredibly helpful—it was inspiring to see what other groups are designing and opened up new possibilities for refining my concept. <br>
+
+<img width="600" alt="file1" src="assets/p4 system arch.png"> <br>
 
 ### Speculations
 As I begin experimenting and await the arrival of the sensors, I’m eager to see how the project evolves and how the final outcome aligns with my vision.
