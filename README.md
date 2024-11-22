@@ -7,6 +7,12 @@ Welcome to Darlene's GitHub repository🌸
 
 ---
 
+# Week 12: Weekly Report 12 #
+## Week of 11/18/2024
+### Reflections
+
+---
+
 # Week 11: Weekly Report 11 #
 ## Week of 11/11/2024
 ### Reflections
