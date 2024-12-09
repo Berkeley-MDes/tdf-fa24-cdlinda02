@@ -10,6 +10,14 @@ Welcome to Darlene's GitHub repository🌸
 # Week 13: Weekly Report 13 #
 ## Week of 12/2/2024
 ### Reflections
+One of the biggest challenges I faced this week was integrating the Google Calendar API. I started by setting up the API on Google Cloud Functions and felt confident moving forward. However, when I tested the integration from the Particle Console, I repeatedly ran into error messages. The root of the issue was Google’s requirement for OAuth2, or Open Authorization, which makes obtaining an access token a critical step in the process. This turned out to be far more complex than I initially anticipated. After over 100 attempts and careful troubleshooting, I finally succeeded in retrieving the access token and completing the integration.
+
+After numerous experiments with sensors and laser-cutting plywood, I successfully completed a fully functional prototype featuring integrated compartments, sensors, and alert systems. The organizer reliably detects user motion, identifies missing items, and provides timely reminders through sound or vibration, ensuring a seamless and efficient user experience.
+
+### Speculations
+This smart organizer promotes a seamless interaction between people and technology. It highlights anticipatory design—technology adapting to human behavior—shifting the focus from reactive to proactive systems that enhance daily routines. I believe this project could be further developed. For example, Use machine learning to analyze patterns in user behavior, predict frequently forgotten items, or suggest reminders based on habits.
+
+In conclusion, this project showcases the potential of technology to simplify daily routines and enhance productivity. The process taught me the importance of persistence and breaking down problems into smaller, manageable steps to solve even the most daunting challenges.
 
 ---
 
