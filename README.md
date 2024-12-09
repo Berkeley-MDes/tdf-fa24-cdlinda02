@@ -3,7 +3,7 @@ Welcome to Darlene's GitHub repository🌸
 
 # Outline
 [Week 1 (9/2)](README.md#week-1-weekly-report-1), [Week 2 (9/9)](README.md#week-2-weekly-report-2), [Week 3 (9/16)](README.md#week-3-weekly-report-3), [Week 4 (9/23)](README.md#week-4-weekly-report-4), 
-[Week 5 (9/30)](README.md#week-5-weekly-report-5), [Week 6 (10/7)](README.md#week-6-weekly-report-6), [Week 7 (10/14)](README.md#week-7-weekly-report-7), [Week 8 (10/21)](README.md#week-8-weekly-report-8), [Week 9 (10/28)](README.md#week-9-weekly-report-9), [Week 10 (11/4)](README.md#week-10-weekly-report-10), [Week 11 (11/11)](README.md#week-11-weekly-report-11)
+[Week 5 (9/30)](README.md#week-5-weekly-report-5), [Week 6 (10/7)](README.md#week-6-weekly-report-6), [Week 7 (10/14)](README.md#week-7-weekly-report-7), [Week 8 (10/21)](README.md#week-8-weekly-report-8), [Week 9 (10/28)](README.md#week-9-weekly-report-9), [Week 10 (11/4)](README.md#week-10-weekly-report-10), [Week 11 (11/11)](README.md#week-11-weekly-report-11), [Week 12 (11/18)](README.md#week-12-weekly-report-12), [Week 13 (12/2)](README.md#week-13-weekly-report-13)
 
 ---
 
@@ -18,6 +18,7 @@ After numerous experiments with sensors and laser-cutting plywood, I successfull
 <img width="600" alt="file1" src="assets/api1.png"> <br>
 <img width="600" alt="file1" src="assets/api2.png"> <br>
 <img width="600" alt="file1" src="assets/tdf diagram.png"> <br>
+
 ### Speculations
 This smart organizer promotes a seamless interaction between people and technology. It highlights anticipatory design—technology adapting to human behavior—shifting the focus from reactive to proactive systems that enhance daily routines. I believe this project could be further developed. For example, Use machine learning to analyze patterns in user behavior, predict frequently forgotten items, or suggest reminders based on habits.
 
@@ -37,6 +38,7 @@ Monday’s class was incredibly helpful—it was inspiring to see what other gro
 
 ### Speculations
 As I begin experimenting and await the arrival of the sensors, I’m eager to see how the project evolves and how the final outcome aligns with my vision.
+<img width="600" alt="file1" src="assets/88eee8d4cca65ad1b872d8df08031cc.jpg"> <br> 
 
 ---
 
