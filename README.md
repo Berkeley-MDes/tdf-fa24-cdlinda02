@@ -37,8 +37,8 @@ Monday’s class was incredibly helpful—it was inspiring to see what other gro
 <img width="600" alt="file1" src="assets/p4 system arch.png"> <br>
 
 ### Speculations
-As I begin experimenting and await the arrival of the sensors, I’m eager to see how the project evolves and how the final outcome aligns with my vision.
-<img width="600" alt="file1" src="assets/88eee8d4cca65ad1b872d8df08031cc.jpg"> <br> 
+As I begin experimenting and await the arrival of the sensors, I’m eager to see how the project evolves and how the final outcome aligns with my vision. <>br
+<img width="300" alt="file1" src="assets/88eee8d4cca65ad1b872d8df08031cc.jpg"> <br> 
 
 ---
 
@@ -50,8 +50,9 @@ This week, I received incredibly useful feedback from peers during Thursday's cl
 In conclusion, this project demonstrated the importance of iterative experimentation and systems thinking in designing a high-functioning agent using an LLM. By focusing on structuring data through chunking methods, fine-tuning parameters, and optimizing the knowledge base, I was able to build a reliable system that delivers accurate and error-free responses. 
 
 ### Speculations
-The feedback highlights several strengths, particularly in the clarity and structure of the presentation, effective storytelling, and the use of visual aids. To build on this, I plan to make a few targeted enhancements. First, I will incorporate subtitles and numbered titles to improve the organization and navigation of the presentation, making it easier for viewers to follow along. Additionally, I will provide more detailed explanations of the processes, especially focusing on areas like node usage and retrieval-augmented generation setups, to ensure viewers can fully understand the workflow and rationale.
-
+The feedback highlights several strengths, particularly in the clarity and structure of the presentation, effective storytelling, and the use of visual aids. To build on this, I plan to make a few targeted enhancements. First, I will incorporate subtitles and numbered titles to improve the organization and navigation of the presentation, making it easier for viewers to follow along. Additionally, I will provide more detailed explanations of the processes, especially focusing on areas like node usage and retrieval-augmented generation setups, to ensure viewers can fully understand the workflow and rationale.<br>
+<img width="500" alt="file1" src="assets/2968b8c32b40291f658793b83ba56dc.jpg"> <br>
+(something cool I saw this week)
 
 ---
 
